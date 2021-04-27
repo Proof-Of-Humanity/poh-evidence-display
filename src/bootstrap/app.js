@@ -82,7 +82,7 @@ const Display = () => {
 
   return (
     <a
-      href={`https://proof-of-humanity.netlify.app/profile/${submissionID}`}
+      href={`https://app.proofofhumanity.id/profile/${submissionID}`}
       target="_blank"
       rel="noopener noreferrer"
       style={{
